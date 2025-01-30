@@ -118,5 +118,3 @@ resource "aws_route_table_association" "infrasamplePublicRTassociation2" {
   subnet_id      = aws_subnet.infrasamplePublicSubnet2.id
   route_table_id = aws_route_table.infrasamplePublicRT.id
 }
-
-# TODO - (Playlsit IAC on AWS #3 at 19:34)

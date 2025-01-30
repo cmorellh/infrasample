@@ -38,5 +38,3 @@ module "webserver" {
   infrasample_vpc_id         = module.infrasample.vpc_id
   infrasample_public_subnets = module.infrasample.public_subnets
 }
-
-# Terraform Modules 
