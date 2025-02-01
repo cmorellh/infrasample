@@ -15,5 +15,6 @@ This repository contains Terraform code to provision and manage cloud infrastruc
 - **Database**: [PostgreSQL, MySQL, etc.]
 - **Storage**: [AWS S3, Fsx]
 
-## Infrastructure Diagram (Optional)
-Include a diagram of your infrastructure setup. You can use tools like [Diagrams.net](https://www.diagrams.net/) or [Lucidchart](https://www.lucidchart.com/).
+## Infrastructure Diagram
+- ToDo
+ [Diagrams.net](https://www.diagrams.net/) or [Lucidchart](https://www.lucidchart.com/).
